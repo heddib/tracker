@@ -1,5 +1,5 @@
 {
-    "name": "renderbit/tracker",
+    "name": "heddib/tracker",
 
     "description": "A Laravel Visitor Tracker",
 
@@ -9,8 +9,8 @@
 
     "authors": [
         {
-            "name": "Riju Pramanik",
-            "email": "riju@renderbit.com",
+            "name": "Heddi Brahiti",
+            "email": "heddi@brahiti.fr",
             "role": "Forked from prgmarx/tracker "
         }
     ],
